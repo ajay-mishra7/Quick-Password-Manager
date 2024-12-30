@@ -15,7 +15,7 @@ nav {
     justify-content: space-between;
 }
 
-.logo{
+.logo {
     margin: 0 23px;
     font-weight: 800;
     font-size: 25px;
@@ -34,12 +34,13 @@ ul > li {
     cursor: pointer;
 }
 
-ul > li:hover{
+ul > li:hover {
     color: white;
-
 }
 
-table, td, tr{
+table,
+td,
+tr {
     border: 2px solid black;
     border-collapse: collapse;
     padding: 5px 13px;
@@ -50,11 +51,13 @@ table, td, tr{
     margin: 23px auto;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     margin: 23px 0;
 }
 
-.btn{
+.btn {
     padding: 8px 17px;
     background: black;
     color: white;
@@ -65,17 +68,17 @@ h1, h2, h3 {
     cursor: pointer;
 }
 
-.btnsm{ 
+.btnsm {
     padding: 8px 17px;
     background: black;
     color: white;
     font-weight: 900;
     border: 2px solid gray;
-    border-radius: 8px; 
+    border-radius: 8px;
     cursor: pointer;
 }
 
-img{
+img {
     cursor: pointer;
     position: relative;
     bottom: 7px;
@@ -83,6 +86,6 @@ img{
     height: 13px;
 }
 
-#alert{
+#alert {
     display: none;
 }
